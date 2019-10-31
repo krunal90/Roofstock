@@ -1,0 +1,24 @@
+.main_detail_container{
+  margin: 27px auto;
+  width: 900px;
+}
+
+.carousel{
+  margin: 27px 0px 27px 0px;
+  width: 900;
+  height: 500
+}
+
+.address_detail{
+  font-weight: 600;
+  font-stretch: normal;
+  font-size: 18px;
+  line-height: 26px;
+  font-family: Muli, sans-serif;
+  color: #515151;
+}
+
+.proprty_detail_image{
+  width: 900;
+  height: 500
+}

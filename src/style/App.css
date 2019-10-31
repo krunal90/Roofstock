@@ -1,0 +1,21 @@
+h2 {
+  text-align: center;
+}
+
+
+.App-header {
+  background-color: #222;
+  height: 120px;
+  padding: 20px;
+  color: white;
+}
+
+.change_view{
+  float: right;
+  margin-right: 7em;
+}
+
+.font_icon{
+  margin-left: 15px;
+  cursor: pointer;
+}

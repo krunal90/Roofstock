@@ -1,0 +1,23 @@
+tr{
+height: 100px;
+}
+
+.list_view > tbody > tr > td{
+  font-weight: 400;
+  font-size: 18px;
+  vertical-align: middle;
+  line-height: 18px;
+  color: #767676;
+  font-family: Muli, sans-serif;
+}
+
+.list_view > tbody > tr > td> .link{
+  color: #767676;
+  text-decoration: none;
+}
+
+.list_view_image{
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}

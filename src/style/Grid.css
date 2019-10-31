@@ -1,0 +1,44 @@
+.grid_card{
+  float: left;
+  width: 303px;
+  margin: 25px 45px 15px 0px;
+  border-radius: 3%;
+}
+
+.grid_card_title{
+  background: rgba(12, 12, 12, 0.2);
+  color: white;
+  font-size: 25px;
+  margin-top: -60px;
+  height: 60px;
+  padding-top: 7px;
+  margin-bottom: 50px;
+  padding-left: 10px;
+}
+
+.grid_card_text{
+  padding-left: 10px;
+  border-bottom: 1px solid rgb(209, 208, 208);
+  width: 150px;
+  font-family: Muli, sans-serif;
+}
+.property_detail_heading, .property_address_detail_heading{
+  color: #767676;
+  margin-bottom: 0px;
+}
+
+.property_address_detail_heading{
+  padding-left: 10px;
+  padding-bottom: 20px;
+  font-family: Muli, sans-serif;
+}
+
+h5{
+  color: #515151;
+}
+
+.property_details{
+  width: 300px;
+  line-height: 1em;
+  color: black;
+}
